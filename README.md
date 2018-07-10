@@ -1,6 +1,7 @@
 COJOCARIU SEBASTIAN 321CB
-								                				Tema 1 PP
+UPB ACS
 
+					Tema 1 PP
 Functii auxiliare:
 
 -functii care returneaza prima,a doua,respectiv a treia componenta a unui 3-tuplu
