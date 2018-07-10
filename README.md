@@ -4,6 +4,7 @@ COJOCARIU SEBASTIAN 321CB
 Functii auxiliare:
 
 -functii care returneaza prima,a doua,respectiv a treia componenta a unui 3-tuplu
+
 take1st ::(Int,Int,Int)->Int
 take2nd ::(Int,Int,Int)->Int
 take3rd ::(Int,Int,Int)->Int
